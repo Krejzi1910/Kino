@@ -1,0 +1,20 @@
+[
+  {
+    "Film": "Avengers: Endgame",
+    "GodzinaFilmu": "18:00",
+    "Cena": 20
+
+  },
+  {
+    "Film": "Jurassic Park",
+    "GodzinaFilmu": "20:30",
+    "Cena": 15
+
+  },
+  {
+    "Film": "Spider-Man 3",
+    "GodzinaFilmu": "22:00",
+    "Cena": 18
+
+  }
+]

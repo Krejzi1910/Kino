@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\bin\Debug\net8.0\PracaDomowa1.exe
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\bin\Debug\net8.0\PracaDomowa1.deps.json
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\bin\Debug\net8.0\PracaDomowa1.runtimeconfig.json
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\bin\Debug\net8.0\PracaDomowa1.dll
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\bin\Debug\net8.0\PracaDomowa1.pdb
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.dll
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\refint\PracaDomowa1.dll
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.pdb
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\ref\PracaDomowa1.dll
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDomowa1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PracaDomowa1\PracaDomowa1\obj\Debug\net8.0\PracaDom.9EF46046.Up2Date
